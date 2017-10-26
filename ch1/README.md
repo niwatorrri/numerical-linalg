@@ -1,5 +1,14 @@
 # Chapter 1: Direct Methods for Linear Systems
 
+### Chapter overview
+
+This chapter basically contains:
+- Solving triangular linear systems
+- Solving general linear systems: LU decomposition (with pivoting)
+- Symmetric positive definite systems: Cholesky and LDL^T decompositions
+
+### Code description
+
 A total of 3 scripts and 6 functions are included.
 
 Functions:
