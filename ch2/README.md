@@ -1,10 +1,12 @@
 # Chapter 2: Error Analysis for Linear Systems
 
+### Chapter overview
 This chapter basically includes:
 - Sensitivity analysis: condition number
 - Numerical stability analysis: round-off error
 - Accuracy estimation of a numerical solution
 
+### Code description
 A total of 3 functions and 2 scripts are included.
 
 Functions:
