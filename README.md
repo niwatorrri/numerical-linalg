@@ -4,5 +4,6 @@ This repository stores all my codes for the Numerical Linear Algebra course, and
 
 - Chapter 1: Direct methods for linear systems
 - Chapter 2: Error analysis for linear systems
+- (To be continued)
 
 All codes are implemented in Matlab. Numerical reports are also attached to illustrate the problem background and the algorithm principles.
