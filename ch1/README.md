@@ -9,7 +9,7 @@ This chapter basically contains:
 
 ### Code description
 
-A total of 3 scripts and 6 functions are included.
+A total of 6 functions and 3 scripts are included.
 
 Functions:
 
