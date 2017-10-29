@@ -1,9 +1,9 @@
-########################################################
-###   Numerical Linear Algebra Codes                 ###
-###   Chapter 2: Error Analysis for Linear Systems   ###
-###   Author: Hongyi Zhang                           ###
-###   Date: 2017/10/29                               ###
-########################################################
+# Chapter 2: Error Analysis for Linear Systems
+
+This chapter basically includes:
+- Sensitivity analysis: condition number
+- Numerical stability analysis: round-off error
+- Accuracy estimation of a numerical solution
 
 A total of 3 functions and 2 scripts are included.
 
